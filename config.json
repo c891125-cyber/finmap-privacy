@@ -1,5 +1,6 @@
 {
-  "sale_end": "",
-  "sale_price_text": "NT$150",
-  "normal_price_text": "NT$150"
+  "show_promo_badge": false,
+  "title_override": "解鎖完整功能",
+  "subtitle_override": "一次買斷，永久使用",
+  "sale_end": ""
 }
